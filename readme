@@ -1,0 +1,3 @@
+1.安装 jekyllrb: https://jekyllrb.com/
+2.在 _post 目录里写文章，把图片放到 _image 目录下
+3.jekyll build -d [dir] 生成可发布的静态网站，dir 应该是 junxigu.github.io 的仓库
