@@ -29,14 +29,3 @@ highlighter: rouge
 
 # Build settings
 markdown: kramdown
-
-FB:
-  comments :
-    provider : duoshuo
-    duoshuo:
-        short_name : junxigu
-    # facebook :
-    #   appid : 123
-    #   num_posts: 5
-    #   width: 580
-    #   colorscheme: light
